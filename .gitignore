@@ -23,3 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 0626 (1)/
+.env
