@@ -2,6 +2,10 @@
 
 A React e-commerce application originally built on the [FakeStore API](https://fakestoreapi.com/), now extended with **Firebase** for authentication, product management, and order tracking. Users can register, log in, browse and manage products, build a cart, and check out — with their order history saved and retrievable.
 
+## Live Demo
+
+[View the live app](https://react-ecommerce-web-app-two.vercel.app)
+
 ## Features
 
 ### Authentication
